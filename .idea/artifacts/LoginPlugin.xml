@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LoginPlugin">
+    <output-path>$USER_HOME$/Saved Games/Minecraft/1.18.2cat端/plugins</output-path>
+    <root id="archive" name="LoginPlugin.jar">
+      <element id="module-output" name="HJALogin" />
+    </root>
+  </artifact>
+</component>

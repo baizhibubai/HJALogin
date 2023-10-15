@@ -1,0 +1,11 @@
+name: HJALogin
+version: '${project.version}'
+main: org.baizhi.hjalogin.HJALogin
+api-version: '1.18'
+commands:
+  login:
+    usage: login <password>
+    description: login
+  register:
+    usage: register <password> <password-again>
+    description: register
